@@ -1,0 +1,2 @@
+The default SQL host:port is assumed to be localhost:3306 (as it was in the lecture 12 slides)
+If this is not the case, the DB connection url can be changed in calhoun.sql.SQLUtil.java inside the constructor function

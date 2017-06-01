@@ -1,0 +1,4 @@
+TWI|Twilight|https://images-na.ssl-images-amazon.com/images/I/41MLd2DZYwL._SY344_BO1,204,203,200_.jpg|499
+TNM|Twilight New Moon|https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Newmooncover.jpg/220px-Newmooncover.jpg|349
+TWE|Twilight Eclipse|https://upload.wikimedia.org/wikipedia/en/2/20/Eclipsecover.jpg|249
+TBD|Twilight Breaking Dawn|https://upload.wikimedia.org/wikipedia/en/3/31/Breaking_Dawn_cover.jpg|199
